@@ -112,7 +112,7 @@ This system leverages advanced algorithms, data structures, and user interaction
 4. Run the executable:
 
     ```bash
-    ./fast_explorer
+    ./Fast-Explorer.cpp
     ```
 
 ---
